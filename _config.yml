@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: "Privacy Policy"
+description: "OCR Text Scanner App - Privacy Policy"
+github:
+  is_project_page: false
