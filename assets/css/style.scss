@@ -1,10 +1,7 @@
 @import "{{ site.theme }}";
 
 
-footer {
+footer .site-footer-credits {
     display: none;
   }
 
-header {
-  display: none;
-}
