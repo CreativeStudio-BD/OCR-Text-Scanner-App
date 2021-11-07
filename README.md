@@ -1,6 +1,3 @@
-# OCR-Text-Scanner-App
-OCR Text Scanner App is an Image to Text Converter, Optical Character Recognizer &amp; Text Extractor.
-
 **Privacy Policy**
 
 We build the 'OCR Text Scanner app as a Free app. This SERVICE is provided by Creative Studio BD Ltd at no cost and is intended for use as is.
